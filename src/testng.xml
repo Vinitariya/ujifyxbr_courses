@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suitesystem "https://mvnrepository.com/artifact/org.testng/testng">
+<suite name="TestLogIn">
+    <test name="LogIn">
+        <classes>
+            <class name="step1"/>
+
+        </classes>
+    </test>
+</suite>
+
+        <?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE suite SYSTEM "https://mvnrepository.com/artifact/org.testng/testng">
+<suite name="Suite">
+<test name="Autorisation.java">
+    <packages>
+        <package name="test.java"/>
+    </packages>
+</test>
+</suite>
